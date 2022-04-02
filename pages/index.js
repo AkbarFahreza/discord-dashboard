@@ -74,7 +74,7 @@ export default function Home(props) {
         <div className="flex mx-auto my-10">
           <a
             className="bg-color-secondary rounded-lg py-2 px-4 mx-auto text-[#fff] text-2xl font-semibold hover:bg-color-first hover:border-2 hover:border-color-secondary hover:text-color-secondary"
-            href="https://discord.gg/yBUXbUYVF"
+            href="https://discord.gg/yBUXbUYVFj"
           >
             JOIN SERVER
           </a>
